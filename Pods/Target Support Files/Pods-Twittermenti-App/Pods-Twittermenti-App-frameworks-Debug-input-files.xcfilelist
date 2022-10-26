@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Twittermenti-App/Pods-Twittermenti-App-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
